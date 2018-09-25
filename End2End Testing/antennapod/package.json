@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "appium": "^1.9.1",
+    "webdriverio": "^4.13.2"
+  }
+}
